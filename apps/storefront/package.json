@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "@epic-web/cachified": "^5.2.0",
-    "@googlemaps/addressvalidation": "^1.0.2",
+    "@googlemaps/addressvalidation": "^2.0.0",
     "@headlessui/react": "^2.1.9",
     "@heroicons/react": "^2.0.18",
     "@lambdacurry/forms": "^0.15.0",
